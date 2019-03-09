@@ -1,4 +1,4 @@
-class Api::V1::PerformanceDataController < ApplicationController
+class Api::V1::BmiDataController < ApplicationController
 	before_action :authenticate_api_v1_user!
 
 	def index
