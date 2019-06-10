@@ -1,24 +1,10 @@
-# README
+# Cooper Test with BMI Data
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a web application for storing Cooper Test results and BMI results.
+The application is sending and retrieving data from a rails API.
 
-Things you may want to cover:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-* Ruby version
+Built by: [Viktor Olsson](https://github.com/vick3d) and [Amanda Gibson](https://github.com/amandagibson)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Deployed with Netlify at https://av-cooper-test.netlify.com/
